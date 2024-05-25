@@ -1,0 +1,3 @@
+Student's Name: Aditi
+Student's Age: 17
+Student's CGPA: 9.500000
